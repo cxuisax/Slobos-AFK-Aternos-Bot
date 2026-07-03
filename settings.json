@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "the true honahuzz",
     "password": "honahuzz123",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "peakhonahuzz.aternos.me",
